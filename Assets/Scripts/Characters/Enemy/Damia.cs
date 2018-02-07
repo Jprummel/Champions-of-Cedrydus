@@ -3,15 +3,15 @@ public class Damia : Enemy {
 	public Damia()
     {
         CharacterName = "Damia";
-        Level = 6;
+        Level = 4;
         RequiredXP = int.MaxValue;
-        XpToGive = 460;
+        XpToGive = 400;
         //Base stats
-        Attack = 15;
-        Defense = 11;
-        Tech = 2;
-        Speed = 8;
-        MaxHP = 90;
+        Attack = 9;
+        Defense = 9;
+        Tech = 1;
+        Speed = 7;
+        MaxHP = 60;
         CurrentHP = MaxHP;
     }
 }

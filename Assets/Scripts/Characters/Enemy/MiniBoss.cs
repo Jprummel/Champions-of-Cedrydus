@@ -2,7 +2,7 @@ using UnityEngine;
 using Utility;
 
 [System.Serializable]
-public class LittleBigBossMan : Enemy {
+public class MiniBoss : Enemy {
 
     protected override void Awake()
     {
@@ -10,9 +10,9 @@ public class LittleBigBossMan : Enemy {
         DropItem = true;
     }
 
-    public LittleBigBossMan()
+    public MiniBoss()
     {
-        CharacterName = "Miniboss btw";
+        CharacterName = "Keeper of the key";
         Level = 7;
         RequiredXP = int.MaxValue;
         XpToGive = 1750;

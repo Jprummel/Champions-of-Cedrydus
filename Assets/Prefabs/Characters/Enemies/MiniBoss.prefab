@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114224186053567126}
   - component: {fileID: 114557621734157926}
   m_Layer: 0
-  m_Name: LittleBigBossMan
+  m_Name: MiniBoss
   m_TagString: Character
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

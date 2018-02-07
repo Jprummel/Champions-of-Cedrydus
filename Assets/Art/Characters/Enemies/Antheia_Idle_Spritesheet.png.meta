@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 69d65e5798f883f44b00c2617d323061
-timeCreated: 1517216149
+timeCreated: 1518041236
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -84,6 +84,44 @@ TextureImporter:
     21300154: Topio_Idle_Spritesheet_37
     21300156: Topio_Idle_Spritesheet_38
     21300158: Topio_Idle_Spritesheet_39
+    21300160: Antheia_Idle_Spritesheet_0
+    21300162: Antheia_Idle_Spritesheet_1
+    21300164: Antheia_Idle_Spritesheet_2
+    21300166: Antheia_Idle_Spritesheet_3
+    21300168: Antheia_Idle_Spritesheet_4
+    21300170: Antheia_Idle_Spritesheet_5
+    21300172: Antheia_Idle_Spritesheet_6
+    21300174: Antheia_Idle_Spritesheet_7
+    21300176: Antheia_Idle_Spritesheet_8
+    21300178: Antheia_Idle_Spritesheet_9
+    21300180: Antheia_Idle_Spritesheet_10
+    21300182: Antheia_Idle_Spritesheet_11
+    21300184: Antheia_Idle_Spritesheet_12
+    21300186: Antheia_Idle_Spritesheet_13
+    21300188: Antheia_Idle_Spritesheet_14
+    21300190: Antheia_Idle_Spritesheet_15
+    21300192: Antheia_Idle_Spritesheet_16
+    21300194: Antheia_Idle_Spritesheet_17
+    21300196: Antheia_Idle_Spritesheet_18
+    21300198: Antheia_Idle_Spritesheet_19
+    21300200: Antheia_Idle_Spritesheet_20
+    21300202: Antheia_Idle_Spritesheet_21
+    21300204: Antheia_Idle_Spritesheet_22
+    21300206: Antheia_Idle_Spritesheet_23
+    21300208: Antheia_Idle_Spritesheet_24
+    21300210: Antheia_Idle_Spritesheet_25
+    21300212: Antheia_Idle_Spritesheet_26
+    21300214: Antheia_Idle_Spritesheet_27
+    21300216: Antheia_Idle_Spritesheet_28
+    21300218: Antheia_Idle_Spritesheet_29
+    21300220: Antheia_Idle_Spritesheet_30
+    21300222: Antheia_Idle_Spritesheet_31
+    21300224: Antheia_Idle_Spritesheet_32
+    21300226: Antheia_Idle_Spritesheet_33
+    21300228: Antheia_Idle_Spritesheet_34
+    21300230: Antheia_Idle_Spritesheet_35
+    21300232: Antheia_Idle_Spritesheet_36
+    21300234: Antheia_Idle_Spritesheet_37
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -176,7 +214,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_0
+      name: Antheia_Idle_Spritesheet_0
       rect:
         serializedVersion: 2
         x: 428
@@ -190,7 +228,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_1
+      name: Antheia_Idle_Spritesheet_1
       rect:
         serializedVersion: 2
         x: 1827
@@ -204,7 +242,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_2
+      name: Antheia_Idle_Spritesheet_2
       rect:
         serializedVersion: 2
         x: 3225
@@ -218,7 +256,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_3
+      name: Antheia_Idle_Spritesheet_3
       rect:
         serializedVersion: 2
         x: 4625
@@ -232,7 +270,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_4
+      name: Antheia_Idle_Spritesheet_4
       rect:
         serializedVersion: 2
         x: 6023
@@ -246,7 +284,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_5
+      name: Antheia_Idle_Spritesheet_5
       rect:
         serializedVersion: 2
         x: 421
@@ -260,7 +298,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_6
+      name: Antheia_Idle_Spritesheet_6
       rect:
         serializedVersion: 2
         x: 1820
@@ -274,7 +312,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_7
+      name: Antheia_Idle_Spritesheet_7
       rect:
         serializedVersion: 2
         x: 3219
@@ -288,7 +326,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_8
+      name: Antheia_Idle_Spritesheet_8
       rect:
         serializedVersion: 2
         x: 4618
@@ -302,7 +340,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_9
+      name: Antheia_Idle_Spritesheet_9
       rect:
         serializedVersion: 2
         x: 6016
@@ -316,7 +354,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_10
+      name: Antheia_Idle_Spritesheet_10
       rect:
         serializedVersion: 2
         x: 415
@@ -330,7 +368,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_11
+      name: Antheia_Idle_Spritesheet_11
       rect:
         serializedVersion: 2
         x: 1814
@@ -344,7 +382,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_12
+      name: Antheia_Idle_Spritesheet_12
       rect:
         serializedVersion: 2
         x: 3213
@@ -358,7 +396,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_13
+      name: Antheia_Idle_Spritesheet_13
       rect:
         serializedVersion: 2
         x: 4612
@@ -372,7 +410,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_14
+      name: Antheia_Idle_Spritesheet_14
       rect:
         serializedVersion: 2
         x: 6010
@@ -386,7 +424,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_15
+      name: Antheia_Idle_Spritesheet_15
       rect:
         serializedVersion: 2
         x: 410
@@ -400,7 +438,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_16
+      name: Antheia_Idle_Spritesheet_16
       rect:
         serializedVersion: 2
         x: 1808
@@ -414,7 +452,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_17
+      name: Antheia_Idle_Spritesheet_17
       rect:
         serializedVersion: 2
         x: 3207
@@ -428,7 +466,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_18
+      name: Antheia_Idle_Spritesheet_18
       rect:
         serializedVersion: 2
         x: 4606
@@ -442,7 +480,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_19
+      name: Antheia_Idle_Spritesheet_19
       rect:
         serializedVersion: 2
         x: 6005
@@ -456,7 +494,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_20
+      name: Antheia_Idle_Spritesheet_20
       rect:
         serializedVersion: 2
         x: 404
@@ -470,7 +508,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_21
+      name: Antheia_Idle_Spritesheet_21
       rect:
         serializedVersion: 2
         x: 1803
@@ -484,7 +522,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_22
+      name: Antheia_Idle_Spritesheet_22
       rect:
         serializedVersion: 2
         x: 3201
@@ -498,7 +536,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_23
+      name: Antheia_Idle_Spritesheet_23
       rect:
         serializedVersion: 2
         x: 4601
@@ -512,7 +550,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_24
+      name: Antheia_Idle_Spritesheet_24
       rect:
         serializedVersion: 2
         x: 6002
@@ -526,7 +564,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_25
+      name: Antheia_Idle_Spritesheet_25
       rect:
         serializedVersion: 2
         x: 403
@@ -540,7 +578,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_26
+      name: Antheia_Idle_Spritesheet_26
       rect:
         serializedVersion: 2
         x: 1804
@@ -554,7 +592,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_27
+      name: Antheia_Idle_Spritesheet_27
       rect:
         serializedVersion: 2
         x: 3206
@@ -568,7 +606,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_28
+      name: Antheia_Idle_Spritesheet_28
       rect:
         serializedVersion: 2
         x: 4608
@@ -582,7 +620,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_29
+      name: Antheia_Idle_Spritesheet_29
       rect:
         serializedVersion: 2
         x: 6010
@@ -596,7 +634,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_30
+      name: Antheia_Idle_Spritesheet_30
       rect:
         serializedVersion: 2
         x: 411
@@ -610,7 +648,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_31
+      name: Antheia_Idle_Spritesheet_31
       rect:
         serializedVersion: 2
         x: 1814
@@ -624,7 +662,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_32
+      name: Antheia_Idle_Spritesheet_32
       rect:
         serializedVersion: 2
         x: 3215
@@ -638,7 +676,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_33
+      name: Antheia_Idle_Spritesheet_33
       rect:
         serializedVersion: 2
         x: 4618
@@ -652,7 +690,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_34
+      name: Antheia_Idle_Spritesheet_34
       rect:
         serializedVersion: 2
         x: 6020
@@ -666,7 +704,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_35
+      name: Antheia_Idle_Spritesheet_35
       rect:
         serializedVersion: 2
         x: 422
@@ -680,7 +718,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_36
+      name: Antheia_Idle_Spritesheet_36
       rect:
         serializedVersion: 2
         x: 1825
@@ -694,7 +732,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Topio_Idle_Spritesheet_37
+      name: Antheia_Idle_Spritesheet_37
       rect:
         serializedVersion: 2
         x: 3226
