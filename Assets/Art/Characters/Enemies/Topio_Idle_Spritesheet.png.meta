@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 69d65e5798f883f44b00c2617d323061
+timeCreated: 1517216149
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: One_Thorny_Boi_Idle_Spritesheet_0
+    21300002: One_Thorny_Boi_Idle_Spritesheet_1
+    21300004: One_Thorny_Boi_Idle_Spritesheet_2
+    21300006: One_Thorny_Boi_Idle_Spritesheet_3
+    21300008: One_Thorny_Boi_Idle_Spritesheet_4
+    21300010: One_Thorny_Boi_Idle_Spritesheet_5
+    21300012: One_Thorny_Boi_Idle_Spritesheet_6
+    21300014: One_Thorny_Boi_Idle_Spritesheet_7
+    21300016: One_Thorny_Boi_Idle_Spritesheet_8
+    21300018: One_Thorny_Boi_Idle_Spritesheet_9
+    21300020: One_Thorny_Boi_Idle_Spritesheet_10
+    21300022: One_Thorny_Boi_Idle_Spritesheet_11
+    21300024: One_Thorny_Boi_Idle_Spritesheet_12
+    21300026: One_Thorny_Boi_Idle_Spritesheet_13
+    21300028: One_Thorny_Boi_Idle_Spritesheet_14
+    21300030: One_Thorny_Boi_Idle_Spritesheet_15
+    21300032: One_Thorny_Boi_Idle_Spritesheet_16
+    21300034: One_Thorny_Boi_Idle_Spritesheet_17
+    21300036: One_Thorny_Boi_Idle_Spritesheet_18
+    21300038: One_Thorny_Boi_Idle_Spritesheet_19
+    21300040: One_Thorny_Boi_Idle_Spritesheet_20
+    21300042: One_Thorny_Boi_Idle_Spritesheet_21
+    21300044: One_Thorny_Boi_Idle_Spritesheet_22
+    21300046: One_Thorny_Boi_Idle_Spritesheet_23
+    21300048: One_Thorny_Boi_Idle_Spritesheet_24
+    21300050: One_Thorny_Boi_Idle_Spritesheet_25
+    21300052: One_Thorny_Boi_Idle_Spritesheet_26
+    21300054: One_Thorny_Boi_Idle_Spritesheet_27
+    21300056: One_Thorny_Boi_Idle_Spritesheet_28
+    21300058: One_Thorny_Boi_Idle_Spritesheet_29
+    21300060: One_Thorny_Boi_Idle_Spritesheet_30
+    21300062: One_Thorny_Boi_Idle_Spritesheet_31
+    21300064: One_Thorny_Boi_Idle_Spritesheet_32
+    21300066: One_Thorny_Boi_Idle_Spritesheet_33
+    21300068: One_Thorny_Boi_Idle_Spritesheet_34
+    21300070: One_Thorny_Boi_Idle_Spritesheet_35
+    21300072: One_Thorny_Boi_Idle_Spritesheet_36
+    21300074: One_Thorny_Boi_Idle_Spritesheet_37
+    21300076: One_Thorny_Boi_Idle_Spritesheet_38
+    21300078: One_Thorny_Boi_Idle_Spritesheet_39
+    21300080: Topio_Idle_Spritesheet_0
+    21300082: Topio_Idle_Spritesheet_1
+    21300084: Topio_Idle_Spritesheet_2
+    21300086: Topio_Idle_Spritesheet_3
+    21300088: Topio_Idle_Spritesheet_4
+    21300090: Topio_Idle_Spritesheet_5
+    21300092: Topio_Idle_Spritesheet_6
+    21300094: Topio_Idle_Spritesheet_7
+    21300096: Topio_Idle_Spritesheet_8
+    21300098: Topio_Idle_Spritesheet_9
+    21300100: Topio_Idle_Spritesheet_10
+    21300102: Topio_Idle_Spritesheet_11
+    21300104: Topio_Idle_Spritesheet_12
+    21300106: Topio_Idle_Spritesheet_13
+    21300108: Topio_Idle_Spritesheet_14
+    21300110: Topio_Idle_Spritesheet_15
+    21300112: Topio_Idle_Spritesheet_16
+    21300114: Topio_Idle_Spritesheet_17
+    21300116: Topio_Idle_Spritesheet_18
+    21300118: Topio_Idle_Spritesheet_19
+    21300120: Topio_Idle_Spritesheet_20
+    21300122: Topio_Idle_Spritesheet_21
+    21300124: Topio_Idle_Spritesheet_22
+    21300126: Topio_Idle_Spritesheet_23
+    21300128: Topio_Idle_Spritesheet_24
+    21300130: Topio_Idle_Spritesheet_25
+    21300132: Topio_Idle_Spritesheet_26
+    21300134: Topio_Idle_Spritesheet_27
+    21300136: Topio_Idle_Spritesheet_28
+    21300138: Topio_Idle_Spritesheet_29
+    21300140: Topio_Idle_Spritesheet_30
+    21300142: Topio_Idle_Spritesheet_31
+    21300144: Topio_Idle_Spritesheet_32
+    21300146: Topio_Idle_Spritesheet_33
+    21300148: Topio_Idle_Spritesheet_34
+    21300150: Topio_Idle_Spritesheet_35
+    21300152: Topio_Idle_Spritesheet_36
+    21300154: Topio_Idle_Spritesheet_37
+    21300156: Topio_Idle_Spritesheet_38
+    21300158: Topio_Idle_Spritesheet_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 9914
+        width: 543
+        height: 693
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 9914
+        width: 544
+        height: 691
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 9914
+        width: 546
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 9914
+        width: 546
+        height: 686
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6023
+        y: 9914
+        width: 548
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 8514
+        width: 550
+        height: 682
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 8514
+        width: 551
+        height: 680
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 8516
+        width: 552
+        height: 675
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 8516
+        width: 553
+        height: 673
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 8516
+        width: 555
+        height: 671
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 7116
+        width: 556
+        height: 669
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 7116
+        width: 557
+        height: 666
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 7116
+        width: 558
+        height: 664
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 7116
+        width: 559
+        height: 662
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 7117
+        width: 561
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5717
+        width: 561
+        height: 656
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 5717
+        width: 563
+        height: 653
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 5717
+        width: 564
+        height: 652
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 5717
+        width: 565
+        height: 649
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 5717
+        width: 566
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4317
+        width: 567
+        height: 644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4318
+        width: 568
+        height: 641
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 4318
+        width: 570
+        height: 638
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 4317
+        width: 570
+        height: 637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6002
+        y: 4317
+        width: 569
+        height: 637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2916
+        width: 568
+        height: 639
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2916
+        width: 567
+        height: 642
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2916
+        width: 565
+        height: 645
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2916
+        width: 563
+        height: 649
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 2916
+        width: 561
+        height: 653
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1516
+        width: 560
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1514
+        width: 557
+        height: 664
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 1514
+        width: 556
+        height: 669
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 1514
+        width: 553
+        height: 674
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 1514
+        width: 551
+        height: 679
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 114
+        width: 549
+        height: 684
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 114
+        width: 546
+        height: 687
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Topio_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 114
+        width: 545
+        height: 691
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: Spritesheet
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

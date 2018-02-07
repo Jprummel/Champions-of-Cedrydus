@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: fa71cb0d812a6184d9f2de36b4625b50
+timeCreated: 1517221488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Damia_Idle_Spritesheet_0
+    21300002: Damia_Idle_Spritesheet_1
+    21300004: Damia_Idle_Spritesheet_2
+    21300006: Damia_Idle_Spritesheet_3
+    21300008: Damia_Idle_Spritesheet_4
+    21300010: Damia_Idle_Spritesheet_5
+    21300012: Damia_Idle_Spritesheet_6
+    21300014: Damia_Idle_Spritesheet_7
+    21300016: Damia_Idle_Spritesheet_8
+    21300018: Damia_Idle_Spritesheet_9
+    21300020: Damia_Idle_Spritesheet_10
+    21300022: Damia_Idle_Spritesheet_11
+    21300024: Damia_Idle_Spritesheet_12
+    21300026: Damia_Idle_Spritesheet_13
+    21300028: Damia_Idle_Spritesheet_14
+    21300030: Damia_Idle_Spritesheet_15
+    21300032: Damia_Idle_Spritesheet_16
+    21300034: Damia_Idle_Spritesheet_17
+    21300036: Damia_Idle_Spritesheet_18
+    21300038: Damia_Idle_Spritesheet_19
+    21300040: Damia_Idle_Spritesheet_20
+    21300042: Damia_Idle_Spritesheet_21
+    21300044: Damia_Idle_Spritesheet_22
+    21300046: Damia_Idle_Spritesheet_23
+    21300048: Damia_Idle_Spritesheet_24
+    21300050: Damia_Idle_Spritesheet_25
+    21300052: Damia_Idle_Spritesheet_26
+    21300054: Damia_Idle_Spritesheet_27
+    21300056: Damia_Idle_Spritesheet_28
+    21300058: Damia_Idle_Spritesheet_29
+    21300060: Damia_Idle_Spritesheet_30
+    21300062: Damia_Idle_Spritesheet_31
+    21300064: Damia_Idle_Spritesheet_32
+    21300066: Damia_Idle_Spritesheet_33
+    21300068: Damia_Idle_Spritesheet_34
+    21300070: Damia_Idle_Spritesheet_35
+    21300072: Damia_Idle_Spritesheet_36
+    21300074: Damia_Idle_Spritesheet_37
+    21300076: Damia_Idle_Spritesheet_38
+    21300078: Damia_Idle_Spritesheet_39
+    21300080: Damia_Idle_Spritesheet_40
+    21300082: Damia_Idle_Spritesheet_41
+    21300084: Damia_Idle_Spritesheet_42
+    21300086: Damia_Idle_Spritesheet_43
+    21300088: Damia_Idle_Spritesheet_44
+    21300090: Damia_Idle_Spritesheet_45
+    21300092: Damia_Idle_Spritesheet_46
+    21300094: Damia_Idle_Spritesheet_47
+    21300096: Damia_Idle_Spritesheet_48
+    21300098: Damia_Idle_Spritesheet_49
+    21300100: Damia_Idle_Spritesheet_50
+    21300102: Damia_Idle_Spritesheet_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 9916
+        width: 530
+        height: 719
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 9916
+        width: 1024
+        height: 716
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 9916
+        width: 1531
+        height: 714
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 9916
+        width: 1023
+        height: 712
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 9915
+        width: 1832
+        height: 711
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8187
+        width: 1494
+        height: 1037
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 8863
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 8515
+        width: 970
+        height: 707
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 8864
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 8515
+        width: 1413
+        height: 704
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 8516
+        width: 1012
+        height: 1038
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 8517
+        width: 1351
+        height: 698
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 8675
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 8668
+        width: 527
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7117
+        width: 1466
+        height: 696
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 7117
+        width: 525
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 7467
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 7117
+        width: 1436
+        height: 692
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 7117
+        width: 963
+        height: 689
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 7117
+        width: 944
+        height: 687
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 7276
+        width: 517
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5717
+        width: 550
+        height: 685
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 6069
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 5717
+        width: 1369
+        height: 682
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 5351
+        width: 1428
+        height: 1047
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 6070
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 5718
+        width: 967
+        height: 1025
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 6070
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 5718
+        width: 1378
+        height: 674
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 5890
+        width: 514
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4318
+        width: 964
+        height: 673
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 4318
+        width: 1417
+        height: 670
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4318
+        width: 562
+        height: 669
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 4674
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 4479
+        width: 38
+        height: 418
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 4317
+        width: 558
+        height: 668
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 3932
+        width: 558
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2917
+        width: 1007
+        height: 670
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2917
+        width: 555
+        height: 672
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 2917
+        width: 1389
+        height: 675
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 2916
+        width: 966
+        height: 680
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 2545
+        width: 944
+        height: 1055
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1516
+        width: 548
+        height: 688
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1876
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1176
+        width: 1013
+        height: 1376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1516
+        width: 1015
+        height: 1064
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1516
+        width: 972
+        height: 701
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 5649
+        y: 1516
+        width: 1351
+        height: 1065
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 116
+        width: 1032
+        height: 709
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 1028
+        height: 829
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 1929
+        height: 832
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Damia_Idle_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 116
+        width: 1750
+        height: 719
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

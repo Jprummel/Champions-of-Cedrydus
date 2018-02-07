@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemCollection>
+  <Weapons>
+    <Weapon name="Plasma Saber">
+      <Description></Description>
+      <Damage>10</Damage>
+      <BonusAttack>2</BonusAttack>
+      <BonusDefense>1</BonusDefense>
+      <BonusTech>0</BonusTech>
+      <BonusSpeed>0</BonusSpeed>
+      <BonusHP>0</BonusHP>
+    </Weapon>
+    <Weapon name="Plasma Blaster">
+      <Description></Description>
+      <Damage>10</Damage>
+      <BonusAttack>2</BonusAttack>
+      <BonusDefense>1</BonusDefense>
+      <BonusTech>0</BonusTech>
+      <BonusSpeed>0</BonusSpeed>
+      <BonusHP>0</BonusHP>
+    </Weapon>
+    <Weapon name="Plasma Shield">
+      <Damage>0</Damage>
+      <BonusAttack>0</BonusAttack>
+      <BonusDefense>4</BonusDefense>
+      <BonusTech>0</BonusTech>
+      <BonusSpeed>0</BonusSpeed>
+      <BonusHP>50</BonusHP>
+    </Weapon>
+  </Weapons>
+
+  <ConsumableItems>
+    <ConsumableItem name="+1 Spinner">
+      <Description>Get one extra spinner in the spinner fase.</Description>
+      <ItemEffect>Duplicate Spinner</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+    <ConsumableItem name="Repair">
+      <Description>Heal for 100 hit points.</Description>
+      <ItemEffect>Heal</ItemEffect>
+      <EffectStrength>100</EffectStrength>
+    </ConsumableItem>
+    <ConsumableItem name="Lockdown">
+      <Description>Locks the inventory of target</Description>
+      <ItemEffect>Inventory Restriction</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Decryption tool">
+      <Description>Lets you walk between 0-6</Description>
+      <ItemEffect>Movement choice</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Town Teleport">
+      <Description>Random teleport to town ends turn</Description>
+      <ItemEffect>Random location changer</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Slow Hack">
+      <Description>Target can only walk 1 space for 3 turns</Description>
+      <ItemEffect>Movement restriction</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Echo Call">
+      <Description>Spawns enemy on target</Description>
+      <ItemEffect>Enemy spawner</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Player Hack">
+      <Description>Lowers stats when on enemy, doubles stats on self use</Description>
+      <ItemEffect>Player (de)Buff</ItemEffect>
+      <EffectStrength>50</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Guided Teleport">
+      <Description>Teleports to target town ends turn</Description>
+      <ItemEffect>Location changer</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Recovery">
+      <Description>Revives player once he dies</Description>
+      <ItemEffect>Heal</ItemEffect>
+      <EffectStrength>100</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Key Code">
+      <Description>When collected all 3 boss battle enables</Description>
+      <ItemEffect>Quest item</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  <ConsumableItem name="Teleport key">
+      <Description>Allows player to win when entering the portal</Description>
+      <ItemEffect>Win</ItemEffect>
+      <EffectStrength>0</EffectStrength>
+    </ConsumableItem>
+  </ConsumableItems>
+</ItemCollection>

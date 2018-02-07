@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: b9ee2ab6b7b377349a23dbe11caf4bee
+timeCreated: 1517218629
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sekhmet_Idle_Spritesheet_0
+    21300002: Sekhmet_Idle_Spritesheet_1
+    21300004: Sekhmet_Idle_Spritesheet_2
+    21300006: Sekhmet_Idle_Spritesheet_3
+    21300008: Sekhmet_Idle_Spritesheet_4
+    21300010: Sekhmet_Idle_Spritesheet_5
+    21300012: Sekhmet_Idle_Spritesheet_6
+    21300014: Sekhmet_Idle_Spritesheet_7
+    21300016: Sekhmet_Idle_Spritesheet_8
+    21300018: Sekhmet_Idle_Spritesheet_9
+    21300020: Sekhmet_Idle_Spritesheet_10
+    21300022: Sekhmet_Idle_Spritesheet_11
+    21300024: Sekhmet_Idle_Spritesheet_12
+    21300026: Sekhmet_Idle_Spritesheet_13
+    21300028: Sekhmet_Idle_Spritesheet_14
+    21300030: Sekhmet_Idle_Spritesheet_15
+    21300032: Sekhmet_Idle_Spritesheet_16
+    21300034: Sekhmet_Idle_Spritesheet_17
+    21300036: Sekhmet_Idle_Spritesheet_18
+    21300038: Sekhmet_Idle_Spritesheet_19
+    21300040: Sekhmet_Idle_Spritesheet_20
+    21300042: Sekhmet_Idle_Spritesheet_21
+    21300044: Sekhmet_Idle_Spritesheet_22
+    21300046: Sekhmet_Idle_Spritesheet_23
+    21300048: Sekhmet_Idle_Spritesheet_24
+    21300050: Sekhmet_Idle_Spritesheet_25
+    21300052: Sekhmet_Idle_Spritesheet_26
+    21300054: Sekhmet_Idle_Spritesheet_27
+    21300056: Sekhmet_Idle_Spritesheet_28
+    21300058: Sekhmet_Idle_Spritesheet_29
+    21300060: Sekhmet_Idle_Spritesheet_30
+    21300062: Sekhmet_Idle_Spritesheet_31
+    21300064: Sekhmet_Idle_Spritesheet_32
+    21300066: Sekhmet_Idle_Spritesheet_33
+    21300068: Sekhmet_Idle_Spritesheet_34
+    21300070: Sekhmet_Idle_Spritesheet_35
+    21300072: Sekhmet_Idle_Spritesheet_36
+    21300074: Sekhmet_Idle_Spritesheet_37
+    21300076: Sekhmet_Idle_Spritesheet_38
+    21300078: Sekhmet_Idle_Spritesheet_39
+    21300080: Sekhmet_Idle_Spritesheet_40
+    21300082: Sekhmet_Idle_Spritesheet_41
+    21300084: Sekhmet_Idle_Spritesheet_42
+    21300086: Sekhmet_Idle_Spritesheet_43
+    21300088: Sekhmet_Idle_Spritesheet_44
+    21300090: Sekhmet_Idle_Spritesheet_45
+    21300092: Sekhmet_Idle_Spritesheet_46
+    21300094: Sekhmet_Idle_Spritesheet_47
+    21300096: Sekhmet_Idle_Spritesheet_48
+    21300098: Sekhmet_Idle_Spritesheet_49
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 9900
+        width: 561
+        height: 670
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 561, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 9549
+        width: 1472
+        height: 1651
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 10526
+        width: 526
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 9538
+        width: 1401
+        height: 1662
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 9543
+        width: 960
+        height: 1657
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 10084
+        width: 525
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8143
+        width: 2007
+        height: 1443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 8515
+        width: 1440
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 8517
+        width: 1544
+        height: 647
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 8682
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 8517
+        width: 1020
+        height: 645
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 8138
+        width: 1903
+        height: 1415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6738
+        width: 1452
+        height: 1406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 8123
+        width: 5
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 6714
+        width: 1941
+        height: 1471
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 6716
+        width: 1462
+        height: 1468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 7117
+        width: 1371
+        height: 1066
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 6699
+        width: 974
+        height: 1816
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 7263
+        width: 514
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5717
+        width: 1471
+        height: 634
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 5718
+        width: 1898
+        height: 632
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 5718
+        width: 562
+        height: 1062
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 5294
+        width: 1982
+        height: 1821
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 6021
+        y: 5272
+        width: 979
+        height: 1070
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3936
+        width: 987
+        height: 1779
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 4320
+        width: 1378
+        height: 1019
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 4466
+        width: 515
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 3876
+        width: 568
+        height: 1059
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3927
+        width: 987
+        height: 1005
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 3898
+        width: 980
+        height: 1035
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2483
+        width: 987
+        height: 1848
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2917
+        width: 1460
+        height: 1403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 2917
+        width: 1998
+        height: 622
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 2917
+        width: 1498
+        height: 1398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6027
+        y: 2917
+        width: 560
+        height: 1020
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143
+        width: 1411
+        height: 1006
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1150
+        width: 1418
+        height: 1394
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 1151
+        width: 1482
+        height: 1393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 1147
+        width: 1919
+        height: 1768
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 2116
+        width: 523
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 356
+        width: 1876
+        height: 2559
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 1578
+        height: 1515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 0
+        width: 1023
+        height: 1514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 115
+        width: 1459
+        height: 658
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 268
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 265
+        width: 538
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 0
+        width: 2126
+        height: 1526
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 260
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 252
+        width: 538
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sekhmet_Idle_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 181
+        width: 1137
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

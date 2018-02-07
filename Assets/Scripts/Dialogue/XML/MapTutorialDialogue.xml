@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Nodes>
+  <DialogueNodes>
+
+    <DialogueNode>
+      <NodeID>1</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>Hello heroes and welcome to Cedrydus! I'm sure you're very confused about why you are here.</Text>
+      <DestinationNodeID>2</DestinationNodeID>
+    </DialogueNode>
+
+    <DialogueNode>
+      <NodeID>2</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>But don't worry everything you will need to know to help you during your journey can be found in your guide by choosing the "Menu" option.</Text>
+      <DestinationNodeID>1000</DestinationNodeID>
+    </DialogueNode>
+    
+    <DialogueNode>
+      <NodeID>1000</NodeID>
+    </DialogueNode>
+    </DialogueNodes>
+</Nodes>

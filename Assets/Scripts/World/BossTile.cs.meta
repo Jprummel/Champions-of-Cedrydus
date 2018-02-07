@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4601239aa4ede44586ad38d5a86ef78
+timeCreated: 1516807050
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bossPrefab: {fileID: 1123721986315818, guid: 5e1df41e1f7ee7743bb12cafebe139b1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

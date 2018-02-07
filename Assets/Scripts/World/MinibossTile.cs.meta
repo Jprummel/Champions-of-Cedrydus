@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 499b2422e39450449a9fe379f187552d
+timeCreated: 1516806920
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _miniBossPrefab: {fileID: 1123721986315818, guid: d4d105b69266aad4db4950bd24a53a44,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Nodes>
+  <DialogueNodes>
+	  <DialogueNode>
+      <NodeID>1</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>In battle you’ll start with two cards. One of them will decide on who attacks first.</Text>
+      <DestinationNodeID>2</DestinationNodeID>
+    </DialogueNode>
+
+    <DialogueNode>
+      <NodeID>2</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>The player who started the battle may switch them around to try and attack first.</Text>
+      <DestinationNodeID>3</DestinationNodeID>
+    </DialogueNode>
+
+    <DialogueNode>
+      <NodeID>3</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>The attacker may choose out of 3 attacks by pressing one of the buttons! Don't let the defender know which!</Text>
+      <DestinationNodeID>4</DestinationNodeID>
+    </DialogueNode>
+
+    <DialogueNode>
+      <NodeID>4</NodeID>
+      <DialogueSource>Narrator</DialogueSource>
+      <Text>If you want to find out more about each action you can check out the section "Combat Actions" in the guide.</Text>
+      <DestinationNodeID>1000</DestinationNodeID>
+    </DialogueNode>
+
+    
+
+    <DialogueNode>
+      <NodeID>1000</NodeID>
+    </DialogueNode>
+    </DialogueNodes>
+</Nodes>

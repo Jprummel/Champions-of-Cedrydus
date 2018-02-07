@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 5d3d8225ac201444e8d9f4885a1a76b8
+timeCreated: 1517221132
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Auril_Idle_Spritesheet_0
+    21300002: Auril_Idle_Spritesheet_1
+    21300004: Auril_Idle_Spritesheet_2
+    21300006: Auril_Idle_Spritesheet_3
+    21300008: Auril_Idle_Spritesheet_4
+    21300010: Auril_Idle_Spritesheet_5
+    21300012: Auril_Idle_Spritesheet_6
+    21300014: Auril_Idle_Spritesheet_7
+    21300016: Auril_Idle_Spritesheet_8
+    21300018: Auril_Idle_Spritesheet_9
+    21300020: Auril_Idle_Spritesheet_10
+    21300022: Auril_Idle_Spritesheet_11
+    21300024: Auril_Idle_Spritesheet_12
+    21300026: Auril_Idle_Spritesheet_13
+    21300028: Auril_Idle_Spritesheet_14
+    21300030: Auril_Idle_Spritesheet_15
+    21300032: Auril_Idle_Spritesheet_16
+    21300034: Auril_Idle_Spritesheet_17
+    21300036: Auril_Idle_Spritesheet_18
+    21300038: Auril_Idle_Spritesheet_19
+    21300040: Auril_Idle_Spritesheet_20
+    21300042: Auril_Idle_Spritesheet_21
+    21300044: Auril_Idle_Spritesheet_22
+    21300046: Auril_Idle_Spritesheet_23
+    21300048: Auril_Idle_Spritesheet_24
+    21300050: Auril_Idle_Spritesheet_25
+    21300052: Auril_Idle_Spritesheet_26
+    21300054: Auril_Idle_Spritesheet_27
+    21300056: Auril_Idle_Spritesheet_28
+    21300058: Auril_Idle_Spritesheet_29
+    21300060: Auril_Idle_Spritesheet_30
+    21300062: Auril_Idle_Spritesheet_31
+    21300064: Auril_Idle_Spritesheet_32
+    21300066: Auril_Idle_Spritesheet_33
+    21300068: Auril_Idle_Spritesheet_34
+    21300070: Auril_Idle_Spritesheet_35
+    21300072: Auril_Idle_Spritesheet_36
+    21300074: Auril_Idle_Spritesheet_37
+    21300076: Auril_Idle_Spritesheet_38
+    21300078: Auril_Idle_Spritesheet_39
+    21300080: Auril_Idle_Spritesheet_40
+    21300082: Auril_Idle_Spritesheet_41
+    21300084: Auril_Idle_Spritesheet_42
+    21300086: Auril_Idle_Spritesheet_43
+    21300088: Auril_Idle_Spritesheet_44
+    21300090: Auril_Idle_Spritesheet_45
+    21300092: Auril_Idle_Spritesheet_46
+    21300094: Auril_Idle_Spritesheet_47
+    21300096: Auril_Idle_Spritesheet_48
+    21300098: Auril_Idle_Spritesheet_49
+    21300100: Auril_Idle_Spritesheet_50
+    21300102: Auril_Idle_Spritesheet_51
+    21300104: Auril_Idle_Spritesheet_52
+    21300106: Auril_Idle_Spritesheet_53
+    21300108: Auril_Idle_Spritesheet_54
+    21300110: Auril_Idle_Spritesheet_55
+    21300112: Auril_Idle_Spritesheet_56
+    21300114: Auril_Idle_Spritesheet_57
+    21300116: Auril_Idle_Spritesheet_58
+    21300118: Auril_Idle_Spritesheet_59
+    21300120: Auril_Idle_Spritesheet_60
+    21300122: Auril_Idle_Spritesheet_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9915
+        width: 561
+        height: 674
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 9525
+        width: 1875
+        height: 1675
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 8117
+        width: 1013
+        height: 1803
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 9526
+        width: 1982
+        height: 1674
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 9913
+        width: 1834
+        height: 1287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 9523
+        width: 6
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5103
+        y: 8117
+        width: 1897
+        height: 1819
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5595
+        y: 9913
+        width: 1405
+        height: 1287
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6373
+        y: 9521
+        width: 8
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8513
+        width: 1991
+        height: 1043
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 9166
+        width: 4
+        height: 392
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 8513
+        width: 1052
+        height: 1041
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 9152
+        width: 15
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 8118
+        width: 1983
+        height: 1460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 8734
+        width: 524
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6715
+        width: 1438
+        height: 1437
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 8120
+        width: 8
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 6712
+        width: 1865
+        height: 1439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 8119
+        width: 4
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 7744
+        width: 131
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 6710
+        width: 2335
+        height: 1464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 8116
+        width: 6
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 6027
+        y: 7114
+        width: 973
+        height: 1034
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 7711
+        width: 4
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6373
+        y: 8116
+        width: 5
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5308
+        width: 1438
+        height: 1462
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 6297
+        width: 515
+        height: 476
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 5306
+        width: 1422
+        height: 1464
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 5305
+        width: 1897
+        height: 1465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6712
+        width: 1460
+        height: 1364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 5302
+        width: 1436
+        height: 1818
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 5305
+        width: 978
+        height: 1815
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4316
+        width: 1468
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2512
+        width: 1854
+        height: 1814
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 3938
+        width: 1463
+        height: 1430
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 3903
+        width: 5
+        height: 417
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 3905
+        width: 2346
+        height: 1435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2914
+        width: 978
+        height: 1040
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 2551
+        width: 1398
+        height: 1393
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4618
+        y: 4315
+        width: 1042
+        height: 1405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 3560
+        width: 1875
+        height: 1779
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2521
+        width: 1832
+        height: 1028
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 3516
+        width: 5
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 2527
+        width: 1368
+        height: 1410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6218
+        y: 3533
+        width: 16
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 2152
+        height: 1427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1130
+        width: 1977
+        height: 1418
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2516
+        width: 4
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1165
+        width: 1460
+        height: 1412
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 2517
+        width: 4
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 1513
+        width: 1443
+        height: 1034
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 2155
+        width: 5
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 5103
+        y: 290
+        width: 1897
+        height: 2270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1702
+        width: 534
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1685
+        width: 4
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1680
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 2029
+        height: 1407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 1444
+        height: 1185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 0
+        width: 2012
+        height: 1520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 0
+        width: 1710
+        height: 1525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 6377
+        y: 269
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Auril_Idle_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 5
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

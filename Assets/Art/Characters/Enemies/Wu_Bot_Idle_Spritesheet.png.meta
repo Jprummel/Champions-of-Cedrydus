@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 3eb310e5f18efa9438a31508535e0d9a
+timeCreated: 1517216120
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wu_Bot_Idle_Spritesheet_0
+    21300002: Wu_Bot_Idle_Spritesheet_1
+    21300004: Wu_Bot_Idle_Spritesheet_2
+    21300006: Wu_Bot_Idle_Spritesheet_3
+    21300008: Wu_Bot_Idle_Spritesheet_4
+    21300010: Wu_Bot_Idle_Spritesheet_5
+    21300012: Wu_Bot_Idle_Spritesheet_6
+    21300014: Wu_Bot_Idle_Spritesheet_7
+    21300016: Wu_Bot_Idle_Spritesheet_8
+    21300018: Wu_Bot_Idle_Spritesheet_9
+    21300020: Wu_Bot_Idle_Spritesheet_10
+    21300022: Wu_Bot_Idle_Spritesheet_11
+    21300024: Wu_Bot_Idle_Spritesheet_12
+    21300026: Wu_Bot_Idle_Spritesheet_13
+    21300028: Wu_Bot_Idle_Spritesheet_14
+    21300030: Wu_Bot_Idle_Spritesheet_15
+    21300032: Wu_Bot_Idle_Spritesheet_16
+    21300034: Wu_Bot_Idle_Spritesheet_17
+    21300036: Wu_Bot_Idle_Spritesheet_18
+    21300038: Wu_Bot_Idle_Spritesheet_19
+    21300040: Wu_Bot_Idle_Spritesheet_20
+    21300042: Wu_Bot_Idle_Spritesheet_21
+    21300044: Wu_Bot_Idle_Spritesheet_22
+    21300046: Wu_Bot_Idle_Spritesheet_23
+    21300048: Wu_Bot_Idle_Spritesheet_24
+    21300050: Wu_Bot_Idle_Spritesheet_25
+    21300052: Wu_Bot_Idle_Spritesheet_26
+    21300054: Wu_Bot_Idle_Spritesheet_27
+    21300056: Wu_Bot_Idle_Spritesheet_28
+    21300058: Wu_Bot_Idle_Spritesheet_29
+    21300060: Wu_Bot_Idle_Spritesheet_30
+    21300062: Wu_Bot_Idle_Spritesheet_31
+    21300064: Wu_Bot_Idle_Spritesheet_32
+    21300066: Wu_Bot_Idle_Spritesheet_33
+    21300068: Wu_Bot_Idle_Spritesheet_34
+    21300070: Wu_Bot_Idle_Spritesheet_35
+    21300072: Wu_Bot_Idle_Spritesheet_36
+    21300074: Wu_Bot_Idle_Spritesheet_37
+    21300076: Wu_Bot_Idle_Spritesheet_38
+    21300078: Wu_Bot_Idle_Spritesheet_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6514
+        width: 335
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 6514
+        width: 335
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 6513
+        width: 336
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 6513
+        width: 337
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5859
+        y: 6513
+        width: 338
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5600
+        width: 337
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 5600
+        width: 338
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 5600
+        width: 339
+        height: 406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 5600
+        width: 339
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 5600
+        width: 339
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4687
+        width: 339
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 4687
+        width: 339
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 4687
+        width: 340
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 4687
+        width: 340
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 4687
+        width: 339
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3774
+        width: 338
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3774
+        width: 337
+        height: 408
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 3774
+        width: 336
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 3774
+        width: 335
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 3774
+        width: 336
+        height: 406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2861
+        width: 335
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2861
+        width: 335
+        height: 403
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 2861
+        width: 333
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 2861
+        width: 333
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5865
+        y: 2861
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1948
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1948
+        width: 333
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1948
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 1948
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 1948
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1035
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1035
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 1035
+        width: 334
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 1036
+        width: 335
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 1036
+        width: 335
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 123
+        width: 335
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 123
+        width: 335
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 123
+        width: 335
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 123
+        width: 336
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wu_Bot_Idle_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 123
+        width: 335
+        height: 398
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: Spritesheet
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 93fbca8f24a94e6438ce8dd514730801
+timeCreated: 1517216171
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Thoth_Bot_Idle_Spritesheet_0
+    21300002: Thoth_Bot_Idle_Spritesheet_1
+    21300004: Thoth_Bot_Idle_Spritesheet_2
+    21300006: Thoth_Bot_Idle_Spritesheet_3
+    21300008: Thoth_Bot_Idle_Spritesheet_4
+    21300010: Thoth_Bot_Idle_Spritesheet_5
+    21300012: Thoth_Bot_Idle_Spritesheet_6
+    21300014: Thoth_Bot_Idle_Spritesheet_7
+    21300016: Thoth_Bot_Idle_Spritesheet_8
+    21300018: Thoth_Bot_Idle_Spritesheet_9
+    21300020: Thoth_Bot_Idle_Spritesheet_10
+    21300022: Thoth_Bot_Idle_Spritesheet_11
+    21300024: Thoth_Bot_Idle_Spritesheet_12
+    21300026: Thoth_Bot_Idle_Spritesheet_13
+    21300028: Thoth_Bot_Idle_Spritesheet_14
+    21300030: Thoth_Bot_Idle_Spritesheet_15
+    21300032: Thoth_Bot_Idle_Spritesheet_16
+    21300034: Thoth_Bot_Idle_Spritesheet_17
+    21300036: Thoth_Bot_Idle_Spritesheet_18
+    21300038: Thoth_Bot_Idle_Spritesheet_19
+    21300040: Thoth_Bot_Idle_Spritesheet_20
+    21300042: Thoth_Bot_Idle_Spritesheet_21
+    21300044: Thoth_Bot_Idle_Spritesheet_22
+    21300046: Thoth_Bot_Idle_Spritesheet_23
+    21300048: Thoth_Bot_Idle_Spritesheet_24
+    21300050: Thoth_Bot_Idle_Spritesheet_25
+    21300052: Thoth_Bot_Idle_Spritesheet_26
+    21300054: Thoth_Bot_Idle_Spritesheet_27
+    21300056: Thoth_Bot_Idle_Spritesheet_28
+    21300058: Thoth_Bot_Idle_Spritesheet_29
+    21300060: Thoth_Bot_Idle_Spritesheet_30
+    21300062: Thoth_Bot_Idle_Spritesheet_31
+    21300064: Thoth_Bot_Idle_Spritesheet_32
+    21300066: Thoth_Bot_Idle_Spritesheet_33
+    21300068: Thoth_Bot_Idle_Spritesheet_34
+    21300070: Thoth_Bot_Idle_Spritesheet_35
+    21300072: Thoth_Bot_Idle_Spritesheet_36
+    21300074: Thoth_Bot_Idle_Spritesheet_37
+    21300076: Thoth_Bot_Idle_Spritesheet_38
+    21300078: Thoth_Bot_Idle_Spritesheet_39
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6514
+        width: 326
+        height: 430
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 6514
+        width: 327
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 6514
+        width: 328
+        height: 432
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 6514
+        width: 328
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 6514
+        width: 329
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 5601
+        width: 328
+        height: 434
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 5601
+        width: 329
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 5601
+        width: 329
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 5601
+        width: 330
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 5601
+        width: 329
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4688
+        width: 330
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 4688
+        width: 331
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 4688
+        width: 330
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 4688
+        width: 330
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 4687
+        width: 330
+        height: 436
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3774
+        width: 329
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3774
+        width: 329
+        height: 435
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 3774
+        width: 329
+        height: 434
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 3774
+        width: 328
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 3775
+        width: 329
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2862
+        width: 328
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2862
+        width: 328
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2862
+        width: 326
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 2862
+        width: 326
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 2862
+        width: 328
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1949
+        width: 327
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1949
+        width: 327
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1949
+        width: 326
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4463
+        y: 1949
+        width: 328
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5863
+        y: 1949
+        width: 327
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1036
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1036
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 1036
+        width: 328
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 1036
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 1036
+        width: 328
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 123
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 123
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 123
+        width: 326
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 123
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thoth_Bot_Idle_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 123
+        width: 327
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: Spritesheet
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
